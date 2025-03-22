@@ -1,0 +1,10 @@
+rootFolders:
+  - key: 4mrloi6o
+    name: pages
+  - key: 1p80vnsy
+    name: RECYCLEPROCESS
+widgetClassKeyToFolderKey:
+  Scaffold_jph7ij6q: 4mrloi6o
+  Scaffold_4w2lhk9y: 1p80vnsy
+  Scaffold_fgis8vro: 1p80vnsy
+  Scaffold_8k35fv17: 1p80vnsy

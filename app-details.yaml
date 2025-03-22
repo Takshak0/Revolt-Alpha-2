@@ -1,0 +1,13 @@
+name: REVOLT
+appSettings:
+  advancedSettings:
+    canvasKitSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: false
+initialPageKeyRef:
+  key: Scaffold_jph7ij6q
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.revolt

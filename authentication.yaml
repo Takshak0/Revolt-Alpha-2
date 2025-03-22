@@ -1,0 +1,10 @@
+firebaseConfigFileInfos:
+  - androidPath: users/y8z4301TdrXO79iA2SmxzyqnEA22/projects/revolt-eva6hk/configs/8cz5fc70dg30/google-services.json
+    iosPath: users/y8z4301TdrXO79iA2SmxzyqnEA22/projects/revolt-eva6hk/configs/p9bs21qqwfp0/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"revolt-eva6hk\",\n  \"appId\": \"1:656367146484:web:dc85603cb711e7c0b915a1\",\n  \"storageBucket\": \"revolt-eva6hk.firebasestorage.app\",\n  \"apiKey\": \"AIzaSyCHIpvpY1bUUAVNXtCZngCa48fYeLrUoOY\",\n  \"authDomain\": \"revolt-eva6hk.firebaseapp.com\",\n  \"messagingSenderId\": \"656367146484\",\n  \"measurementId\": \"G-TL0VRYKTPH\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.revolt
+    iosBundleId: com.mycompany.revolt
+    environment:
+      name: Production
+      key: PROD

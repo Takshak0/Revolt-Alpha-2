@@ -1,0 +1,4 @@
+storageRules:
+  excludeFromStorageRules: true
+  rules:
+    userUploadsArePrivate: true
